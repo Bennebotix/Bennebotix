@@ -1,9 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+I'm+Bennebotix!;I+Like+To+Code!+:)">
 <h1 align="center">Hi ツ, I'm Bennebotix</h1>
 
-- 🔭 I’m currently working on [3kh0's (Echo) Main Website](https://github.com/3kh0/3kh0.github.io) and some funky JS stuff!
+- 🔭 I’m currently working on [Mega Bitz v2](http://github.com/Bennebotix/Mega-Bitz-v2.0)
 
-- 🌱 I’m currently learning [more node.js](https://nodejs.org/).
+- 🌱 I’m currently learning [PWA's](https://web.dev/learn/pwa).
 
 - 👯 I’m looking to help you in any way I can (not very much but some!). [Email](mailto:bennebotix@gmail.com).
 
@@ -13,4 +13,4 @@
 
 - 📫 You can ping me at my [Email](mailto:bennebotix@gmail.com).
 
-- ⚡ Fun fact: I'm In 7th Grade!
+- ⚡ Fun fact: I'm In 9th Grade!
