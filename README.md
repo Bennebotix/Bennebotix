@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+I'm+Bennebotix!;I+Like+To+Code!+:)">
 <h1 align="center">Hi ツ, I'm Bennebotix</h1>
 
-- 🔭 I’m currently working on [Mega Bitz v2](http://github.com/Bennebotix/Mega-Bitz-v2.0)
+- 🔭 I’m currently working on [Nano Client](http://github.com/Bennebotix/Nano-Client)
 
 - 🌱 I’m currently learning [PWA's](https://web.dev/learn/pwa).
 
