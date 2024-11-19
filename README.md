@@ -1,33 +1,5 @@
 <h1 align="center">Hi ツ, I'm Bennebotix</h1>
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 400 50'
-    style='background-color: #00000000;'
-    width='400px' height='50px'>
-    <path id='path0'>
-        <!-- Single line -->
-        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='5000ms' fill='remove'
-            values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20' dominant-baseline='middle'
-        x='0%' text-anchor='start' letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            Hey I'm Bennebotix!
-        </textPath>
-    </text>
-    <path id='path1'>
-        <!-- Single line -->
-        <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms' fill='remove'
-            values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20' dominant-baseline='middle'
-        x='0%' text-anchor='start' letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            I Like To Code!
-        </textPath>
-    </text>
-</svg>
+<img src="data:text/svg;base64,PCEtLSBodHRwczovL2dpdGh1Yi5jb20vRGVudmVyQ29kZXIxL3JlYWRtZS10eXBpbmctc3ZnLyAtLT4KPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnCiAgICB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycKICAgIHZpZXdCb3g9JzAgMCA0MDAgNTAnCiAgICBzdHlsZT0nYmFja2dyb3VuZC1jb2xvcjogIzAwMDAwMDAwOycKICAgIHdpZHRoPSc0MDBweCcgaGVpZ2h0PSc1MHB4Jz4KCiAgICAKICAgICAgICAgICAgICAgIDxwYXRoIGlkPSdwYXRoMCc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIFNpbmdsZSBsaW5lIC0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhbmltYXRlIGlkPSdkMCcgYXR0cmlidXRlTmFtZT0nZCcgYmVnaW49JzBzO2QxLmVuZCcKICAgICAgICAgICAgICAgICAgICBkdXI9JzUwMDBtcycgZmlsbD0ncmVtb3ZlJwogICAgICAgICAgICAgICAgICAgIHZhbHVlcz0nbTAsMjUgaDAgOyBtMCwyNSBoNDAwIDsgbTAsMjUgaDQwMCA7IG0wLDI1IGgwJyBrZXlUaW1lcz0nMDswLjg7MC44OzEnIC8+CiAgICAgICAgICAgICAgICAgICAgPC9wYXRoPgogICAgPHRleHQgZm9udC1mYW1pbHk9JyJtb25vc3BhY2UiLCBtb25vc3BhY2UnIGZpbGw9JyMzNkJDRjcnIGZvbnQtc2l6ZT0nMjAnCiAgICAgICAgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScKICAgICAgICB4PScwJScgdGV4dC1hbmNob3I9J3N0YXJ0JwogICAgICAgIGxldHRlci1zcGFjaW5nPSdub3JtYWwnPgogICAgICAgIDx0ZXh0UGF0aCB4bGluazpocmVmPScjcGF0aDAnPgogICAgICAgICAgICBIZXkgSSYjMDM5O20gQmVubmVib3RpeCEKICAgICAgICA8L3RleHRQYXRoPgogICAgPC90ZXh0PgogICAgICAgIDxwYXRoIGlkPSdwYXRoMSc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIFNpbmdsZSBsaW5lIC0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhbmltYXRlIGlkPSdkMScgYXR0cmlidXRlTmFtZT0nZCcgYmVnaW49J2QwLmVuZCcKICAgICAgICAgICAgICAgICAgICBkdXI9JzUwMDBtcycgZmlsbD0ncmVtb3ZlJwogICAgICAgICAgICAgICAgICAgIHZhbHVlcz0nbTAsMjUgaDAgOyBtMCwyNSBoNDAwIDsgbTAsMjUgaDQwMCA7IG0wLDI1IGgwJyBrZXlUaW1lcz0nMDswLjg7MC44OzEnIC8+CiAgICAgICAgICAgICAgICAgICAgPC9wYXRoPgogICAgPHRleHQgZm9udC1mYW1pbHk9JyJtb25vc3BhY2UiLCBtb25vc3BhY2UnIGZpbGw9JyMzNkJDRjcnIGZvbnQtc2l6ZT0nMjAnCiAgICAgICAgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScKICAgICAgICB4PScwJScgdGV4dC1hbmNob3I9J3N0YXJ0JwogICAgICAgIGxldHRlci1zcGFjaW5nPSdub3JtYWwnPgogICAgICAgIDx0ZXh0UGF0aCB4bGluazpocmVmPScjcGF0aDEnPgogICAgICAgICAgICBJIExpa2UgVG8gQ29kZSEgOgogICAgICAgIDwvdGV4dFBhdGg+CiAgICA8L3RleHQ+Cjwvc3ZnPgo=">
 
 - 🔭 I’m currently working on [Nano Client](http://github.com/Bennebotix/Nano-Client)
 
