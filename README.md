@@ -5,34 +5,26 @@
     viewBox='0 0 400 50'
     style='background-color: #00000000;'
     width='400px' height='50px'>
-
-    
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d1.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
+    <path id='path0'>
+        <!-- Single line -->
+        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20' dominant-baseline='middle'
+        x='0%' text-anchor='start' letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Hey I&#039;m Bennebotix!
+            Hey I'm Bennebotix!
         </textPath>
     </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
+    <path id='path1'>
+        <!-- Single line -->
+        <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20' dominant-baseline='middle'
+        x='0%' text-anchor='start' letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            I Like To Code! :
+            I Like To Code!
         </textPath>
     </text>
 </svg>
