@@ -1,7 +1,7 @@
 <h1 align="center">Hi ツ, I'm Bennebotix</h1>
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+I'm+Bennebotix!;I+Like+To+Code!+:)">
 
-- 🔭 I’m currently working on [Lockly](http://github.com/Bennebotix/Lockly)
+- 🔭 I’m currently working on [Void AI](http://github.com/Bennebotix/Lockly)
 
 - 🌱 I’m currently learning [WebSockets](https://web.dev/learn/pwa).
 
