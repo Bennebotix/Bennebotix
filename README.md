@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to help you in any way I can (not very much but some!). [Email](mailto:bennebotix@gmail.com).
 
-- 🤝 I’m looking for help with nothing (yay!).
+- 🤝 I’m looking for help with ... nothing (yay!).
 
 - 👨‍💻 All of my projects are available at [bennebotix.github.io](https://bennebotix.github.io/).
 
