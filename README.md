@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Void Bot](http://github.com/Bennebotix/Void-Bot).
 
-- 🌱 I’m currently learning [WebSockets](https://web.dev/learn/pwa).
+- 🌱 I’m currently learning [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
 - 👯 I’m looking to help you in any way I can (not very much but some!). [Email](mailto:bennebotix@gmail.com).
 
